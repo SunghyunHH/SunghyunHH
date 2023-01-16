@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Seounghyun Han
+### Hi there 👋, My name is Sunghyun Han
 #### 안녕하세요, 한성현 입니다!
 <hr>
 주요활동
