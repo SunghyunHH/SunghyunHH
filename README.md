@@ -38,7 +38,7 @@ Main: Pytorch / C / Python / R / Tableau
 - 😄 MBTI : INFP
 <hr>
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shh906)<img src="http://mazandi.herokuapp.com/api?handle=shh906&theme=tokyonight"/>
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shh906)<img src="http://mazandi.herokuapp.com/api?handle=shh906"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SunghyunHH&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyunHH&layout=compact&theme=tokyonight)](https://github.com/SunghyunHH)
 
