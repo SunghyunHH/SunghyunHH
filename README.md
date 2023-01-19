@@ -40,7 +40,7 @@ Main: Pytorch / C / Python / R / Tableau
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shh906)<img src="http://mazandi.herokuapp.com/api?handle=shh906&theme=warm"/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SunghyunHH&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyunHH&layout=compact&theme=dracula)](https://github.com/SunghyunHH)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SunghyunHH&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyunHH&layout=compact&theme=tokyonight)](https://github.com/SunghyunHH)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SunghyunHH)  
 
