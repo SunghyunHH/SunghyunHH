@@ -7,12 +7,18 @@
 
 2020.09 ~ 경상국립대학교 컴퓨터과학과 복수전공
 
+2021.06.28 ~ 2021.09.10 데이터 청년 캠퍼스(경남대학교)
+
 2022.03 ~ 디지털 정보처리 연구실 학부연구생 - 딥러닝을 이용한 영상복원 & 잡음제거 연구
 
 2022.10  ‘의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거(3저자)’ -한국데이터정보과학지
 
 <hr>
 수상이력
+
+2021.09 한국농수산식품유통공사 표창장
+
+2022.02 LH 한국토지주택공사 장려상
 
 2022.04 AI-Hub 학습데이터 활용 사업화 아이디어 해커톤 대상
 
@@ -21,9 +27,8 @@
 <hr>
 Skills
 
-Main: Pytorch 
+Main: Pytorch / C / Python / R / Tableau
 
-Sub: C / Flask / SQLite / R 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </p>
 
