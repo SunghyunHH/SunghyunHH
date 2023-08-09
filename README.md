@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sunghyun Han
+![image](https://github.com/SunghyunHH/SunghyunHH/assets/94526604/5b1d1e36-d81b-4397-8ba5-8aca7d9fc936)### Hi there 👋, My name is Sunghyun Han
 #### 안녕하세요, 한성현 입니다!
 <hr>
 주요활동
@@ -14,6 +14,8 @@
 2022.03 ~ 디지털 정보처리 연구실 학부연구생 - 딥러닝을 이용한 영상복원 & 잡음제거 연구
 
 2022.10  ‘의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거(3저자)’ -한국데이터정보과학지
+
+2023.07. ‘U-Net based GAN with deformable convolution for CT image denoising(1저자)’ - 한국데이터정보과학지
 
 <hr>
 수상이력
@@ -37,7 +39,7 @@ Main: Pytorch / C / Python / R / Tableau
 
 - 🌱 I’m currently studying Statistics & BigData 
 - 📫 How to reach me: sunghyunh28@gmail.com
-- 😄 MBTI : INFP
+
 <hr>
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shh906)<img src="http://mazandi.herokuapp.com/api?handle=shh906"/>
