@@ -1,4 +1,4 @@
-![image](https://github.com/SunghyunHH/SunghyunHH/assets/94526604/5b1d1e36-d81b-4397-8ba5-8aca7d9fc936)### Hi there 👋, My name is Sunghyun Han
+### Hi there 👋, My name is Sunghyun Han
 #### 안녕하세요, 한성현 입니다!
 <hr>
 주요활동
