@@ -13,9 +13,7 @@
 
 2022.03 ~ 디지털 정보처리 연구실 학부연구생 - 딥러닝을 이용한 영상복원 & 잡음제거 연구
 
-2022.10  ‘의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거(3저자)’ -한국데이터정보과학지
-
-2023.07. ‘U-Net based GAN with deformable convolution for CT image denoising(1저자)’ - 한국데이터정보과학지
+2023.07 ‘U-Net based GAN with deformable convolution for CT image denoising(1저자)’ - 한국데이터정보과학지
 
 <hr>
 수상이력
